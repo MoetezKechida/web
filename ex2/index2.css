@@ -1,0 +1,29 @@
+.col{
+    width:100%;
+}
+.row{
+    width: 100%;
+}
+#colorPicker{
+    height: 100%;
+}
+#customizationPanal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    width: 75%;
+    background-color: aliceblue;
+    margin:auto;
+    margin-top: 10%;
+    border-radius: 15px;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.2);
+}
+#text{
+    
+    width:95%;
+    margin:auto;
+    margin-top: 10%;
+    height: 50vh;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.2);
+}

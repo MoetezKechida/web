@@ -1,0 +1,11 @@
+
+div {
+    text-align: center;
+    margin-top: 10%;
+    font-size: larger;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    place-self: center;
+    border-radius: 20px;
+
+}
