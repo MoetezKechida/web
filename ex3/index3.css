@@ -1,0 +1,16 @@
+#row1,#row2{
+    font-family:'Times New Roman', Times, serif;
+    background-color: aliceblue;
+    border-radius: 15px;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.2);
+}
+textarea{
+    height:4vh;
+}
+#boutton{
+    margin-top: 5%;
+}
+
+
+
+
